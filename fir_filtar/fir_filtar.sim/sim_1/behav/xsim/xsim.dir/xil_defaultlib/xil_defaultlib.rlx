@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/Andrej/VHDL_projects/fir_filtar/fir_filtar.srcs/sim_1/new/fir_tb.vhd,1670694426,vhdl,,,,fir_tb,,,,,,,,
+C:/Users/Andrej/VHDL_projects/fir_filtar/fir_filtar.srcs/sources_1/new/fir_filtar.vhd,1670695129,vhdl,C:/Users/Andrej/VHDL_projects/fir_filtar/fir_filtar.srcs/sim_1/new/fir_tb.vhd,,,fir_filtar,,,,,,,,
+C:/Users/Andrej/VHDL_projects/fir_filtar/fir_filtar.srcs/sources_1/new/mac.vhd,1670695121,vhdl,C:/Users/Andrej/VHDL_projects/fir_filtar/fir_filtar.srcs/sources_1/new/fir_filtar.vhd,,,mac,,,,,,,,
+C:/Users/Andrej/VHDL_projects/fir_filtar/fir_filtar.srcs/sources_1/new/txt_util.vhd,1483463286,vhdl,C:/Users/Andrej/VHDL_projects/fir_filtar/fir_filtar.srcs/sim_1/new/fir_tb.vhd,,,txt_util,,,,,,,,
+C:/Users/Andrej/VHDL_projects/fir_filtar/fir_filtar.srcs/sources_1/new/util_pkg.vhd,1485806310,vhdl,C:/Users/Andrej/VHDL_projects/fir_filtar/fir_filtar.srcs/sim_1/new/fir_tb.vhd;C:/Users/Andrej/VHDL_projects/fir_filtar/fir_filtar.srcs/sources_1/new/fir_filtar.vhd,,,util_pkg,,,,,,,,
